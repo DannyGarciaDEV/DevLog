@@ -1,14 +1,13 @@
 # Dev Log - YYYY-MM-DD
 
-## Today’s Focus
-- Quick bullet of main tasks
+## What I Worked On
 
-## Wins / What I Learned
-- Short notes on progress or insights
+## What I Learned
 
-## Challenges / Bugs
-- Quick description of any problems
-- Next steps to fix
+## What Went Well
 
-## Tomorrow / Next Steps
-- 1-3 bullets of what to tackle next
+## What Blocked Me
+
+## Next Steps
+
+## Notes / Reflections
